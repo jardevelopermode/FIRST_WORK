@@ -20,7 +20,7 @@ public class hola{
         // TODO code application logic here
         
         
-        JOptionPane.showMessageDialog(null,"WEBOSS 2 PART");
+        JOptionPane.showMessageDialog(null,"HELLO IT'S ME");
         
     }
     
