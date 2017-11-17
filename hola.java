@@ -16,11 +16,18 @@ public class hola{
     /**
      * @param args the command line arguments
      */
+    
+    public void hola(){
+        
+        JOptionPane.showMessageDialog(null,"HELLO IT'S ME");
+    
+    }
+    
     public static void main(String[] args) {
         // TODO code application logic here
         
-        
-        JOptionPane.showMessageDialog(null,"HELLO IT'S ME");
+        hola h = new hola();
+        h.hola();
         
     }
     
